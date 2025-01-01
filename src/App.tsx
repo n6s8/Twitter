@@ -11,7 +11,7 @@ function App() {
         <SideMenu/>
         <div className="vertical-divider"></div>
         <Home/>
-        <div className="vertical-divider"></div>
+        <div className="vertical-divider-2"></div>
         <Recommendation/>
       </div>
     </>

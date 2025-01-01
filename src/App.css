@@ -7,3 +7,9 @@
     display: flex;
     margin: 5rem;
 }
+.vertical-divider-2{
+    width: 2px;
+    height: auto;
+    background-color: whitesmoke;
+    margin-right: 100px;
+}
